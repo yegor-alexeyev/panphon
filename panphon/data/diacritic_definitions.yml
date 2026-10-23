@@ -18,8 +18,7 @@ diacritics:
     name: Voiceless
     position: post
     conditions:
-      - son: "+"
-        voi: "+"
+      - voi: "+"
     content:
       voi: "-"
 
