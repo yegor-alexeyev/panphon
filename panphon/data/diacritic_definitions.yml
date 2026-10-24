@@ -14,6 +14,14 @@ diacritics:
 
 # Laryngeal features
 
+  - marker: ̬
+    name: Voiced
+    position: post
+    conditions:
+      - voi: "-"
+    content:
+      voi: "+"
+
   - marker: ̥
     name: Voiceless
     position: post
